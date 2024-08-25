@@ -1,6 +1,6 @@
 import time
 import pyautogui
-import threading
+import threading           # Possivel futura melhoria: interface
 
 # This means that the program will wait for 3 seconds before proceeding to
 # execute the rest of the code. This can be useful in scenarios where you want to introduce a delay or

@@ -44,5 +44,8 @@ def main():
     thread_monitoramento.join()
             
                 
+# The `if __name__ == "__main__":` block in Python is a common idiom used to ensure that the code
+# inside it is only executed if the script is run directly, and not imported as a module into another
+# script.
 if __name__ == "__main__":
     main()

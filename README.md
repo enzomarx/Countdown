@@ -10,4 +10,3 @@
 - monitorar_tempo(): Continuously checks the remaining time and prints a message when the timer reaches 15 seconds.
 - main(): Creates and runs two threads concurrently: one for the countdown and one for time monitoring.
 The script starts by initializing the countdown and monitoring in separate threads to run simultaneously.
-

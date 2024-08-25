@@ -2,6 +2,9 @@ import time
 import pyautogui
 import threading
 
+# This means that the program will wait for 3 seconds before proceeding to
+# execute the rest of the code. This can be useful in scenarios where you want to introduce a delay or
+# wait for a specific duration before starting the main functionality of the program.
 time.sleep(3)
 
 def contagem_regressiva():
